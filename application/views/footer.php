@@ -87,9 +87,9 @@
                  <div class="col-xl-5 col-lg-5 col-md-5">
                        <!-- social -->
                        <div class="footer-social f-right">
-                           <a href="#"><i class="fab fa-twitter"></i></a>
+                           <a href="https://twitter.com/fedex"><i class="fab fa-twitter"></i></a>
                            <a href="https://www.facebook.com/FedEx/"><i class="fab fa-facebook-f"></i></a>
-                           <a href="https://www.youtube.com/user/fedexamericalatina"><i class="fab fa-behance"></i></a>
+                           <a href="https://www.youtube.com/user/fedexamericalatina"><i class="fab fa-youtube"></i></a>
                            <a href="https://www.linkedin.com/showcase/fedex-am%25C3%25A9rica-latina/"><i class="fas fa-globe"></i></a>
                        </div>
                 </div>

@@ -61,10 +61,10 @@
                         <div class="col-lg-4">
                             <div class="header-info-right f-right">
                                 <ul class="header-social">
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                   <li> <a href="#"><i class="fab fa-pinterest-p"></i></a></li>
+                                    <li><a href="https://twitter.com/fedex"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/showcase/fedex-am%25C3%25A9rica-latina/"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="https://www.facebook.com/FedEx/"><i class="fab fa-facebook-f"></i></a></li>
+                                   <li> <a href="https://www.pinterest.com/FedEx/"><i class="fab fa-pinterest-p"></i></a></li>
                                 </ul>
                             </div>
                         </div>
