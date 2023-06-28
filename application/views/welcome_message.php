@@ -52,7 +52,7 @@
 														<span class="flaticon-tour"></span>
 												</div>
 												<div class="services-cap">
-														<h5>8000+ Our Local<br>Guides</h5>
+														<h5>8000+ Nuestros<br>Guías Locales</h5>
 												</div>
 										</div>
 								</div>
@@ -62,7 +62,7 @@
 														<span class="flaticon-pay"></span>
 												</div>
 												<div class="services-cap">
-														<h5>100% Trusted Tour<br>Agency</h5>
+														<h5>100% Agencia de viajes<br>de confianza</h5>
 												</div>
 										</div>
 								</div>
@@ -72,7 +72,7 @@
 														<span class="flaticon-experience"></span>
 												</div>
 												<div class="services-cap">
-														<h5>28+ Years of deliveries<br>Experience</h5>
+														<h5>28+ Años de entregas<br>con Experiencia</h5>
 												</div>
 										</div>
 								</div>
@@ -82,7 +82,7 @@
 														<span class="flaticon-good"></span>
 												</div>
 												<div class="services-cap">
-														<h5>98% Our clients<br>are Happy</h5>
+														<h5>98% De nuestros clientes<br>estan felices</h5>
 												</div>
 										</div>
 								</div>
@@ -97,8 +97,7 @@
 						<div class="row">
 								<div class="col-lg-12">
 										<div class="section-tittle text-center">
-												<span>FEATURED TOURS Packages</span>
-												<h2>Favourite Places</h2>
+												<h2>Administra tus envíos</h2>
 										</div>
 								</div>
 						</div>
@@ -110,13 +109,12 @@
 												</div>
 												<div class="place-cap">
 														<div class="place-cap-top">
-																<span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-																<h3><a href="#">The Dark Forest Adventure</a></h3>
-																<p class="dolor">$1870 <span>/ Per Person</span></p>
+																<span><i class="fas fa-star"></i><span>8.0 Magnífico</span> </span>
+																<h3><a href="https://www.fedex.com/es-ec/campaign/peak.html">La promoción «Tus Envíos son una Recompensa»</a></h3>
 														</div>
 														<div class="place-cap-bottom">
 																<ul>
-																		<li><i class="far fa-clock"></i>3 Days</li>
+																		<li><i class="far fa-clock"></i>3 Dias</li>
 																		<li><i class="fas fa-map-marker-alt"></i>Los Angeles</li>
 																</ul>
 														</div>
@@ -130,13 +128,12 @@
 												</div>
 												<div class="place-cap">
 														<div class="place-cap-top">
-																<span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-																<h3><a href="#">The Dark Forest Adventure</a></h3>
-																<p class="dolor">$1870 <span>/ Per Person</span></p>
+																<span><i class="fas fa-star"></i><span>8.0 Magnífico</span> </span>
+																<h3><a href="https://www.fedex.com/es-ec/eu-vat-changes.html">Cambios en las reglas de IVA de la U.E.</a></h3>
 														</div>
 														<div class="place-cap-bottom">
 																<ul>
-																		<li><i class="far fa-clock"></i>3 Days</li>
+																		<li><i class="far fa-clock"></i>3 Dias</li>
 																		<li><i class="fas fa-map-marker-alt"></i>Los Angeles</li>
 																</ul>
 														</div>
@@ -150,13 +147,12 @@
 												</div>
 												<div class="place-cap">
 														<div class="place-cap-top">
-																<span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-																<h3><a href="#">The Dark Forest Adventure</a></h3>
-																<p class="dolor">$1870 <span>/ Per Person</span></p>
+																<span><i class="fas fa-star"></i><span>8.0 Magnífico</span> </span>
+																<h3><a href="https://www.fedex.com/es-ec/service-news.html">Estamos realizando entregas.</a></h3>
 														</div>
 														<div class="place-cap-bottom">
 																<ul>
-																		<li><i class="far fa-clock"></i>3 Days</li>
+																		<li><i class="far fa-clock"></i>3 Dias</li>
 																		<li><i class="fas fa-map-marker-alt"></i>Los Angeles</li>
 																</ul>
 														</div>
@@ -170,13 +166,12 @@
 												</div>
 												<div class="place-cap">
 														<div class="place-cap-top">
-																<span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-																<h3><a href="#">The Dark Forest Adventure</a></h3>
-																<p class="dolor">$1870 <span>/ Per Person</span></p>
+																<span><i class="fas fa-star"></i><span>8.0 Magnífico</span> </span>
+																<h3><a href="https://www.fedex.com/es-ec/campaign/peak.html">Promoción: ¡Exporta y gana!</a></h3>
 														</div>
 														<div class="place-cap-bottom">
 																<ul>
-																		<li><i class="far fa-clock"></i>3 Days</li>
+																		<li><i class="far fa-clock"></i>3 Dias</li>
 																		<li><i class="fas fa-map-marker-alt"></i>Los Angeles</li>
 																</ul>
 														</div>
@@ -190,13 +185,12 @@
 												</div>
 												<div class="place-cap">
 														<div class="place-cap-top">
-																<span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-																<h3><a href="#">The Dark Forest Adventure</a></h3>
-																<p class="dolor">$1870 <span>/ Per Person</span></p>
+																<span><i class="fas fa-star"></i><span>8.0 Magnífico</span> </span>
+																<h3><a href="https://www.fedex.com/es-ec/customs-tools/electronic-trade-documents.html">Documentos comerciales electrónicos de FedEx®</a></h3>
 														</div>
 														<div class="place-cap-bottom">
 																<ul>
-																		<li><i class="far fa-clock"></i>3 Days</li>
+																		<li><i class="far fa-clock"></i>3 Dias</li>
 																		<li><i class="fas fa-map-marker-alt"></i>Los Angeles</li>
 																</ul>
 														</div>
@@ -210,13 +204,12 @@
 												</div>
 												<div class="place-cap">
 														<div class="place-cap-top">
-																<span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-																<h3><a href="#">The Dark Forest Adventure</a></h3>
-																<p class="dolor">$1870 <span>/ Per Person</span></p>
+																<span><i class="fas fa-star"></i><span>8.0 Magnífico</span> </span>
+																<h3><a href="https://www.fedex.com/es-ec/home.html">Más de FedEx</a></h3>
 														</div>
 														<div class="place-cap-bottom">
 																<ul>
-																		<li><i class="far fa-clock"></i>3 Days</li>
+																		<li><i class="far fa-clock"></i>3 Dias</li>
 																		<li><i class="fas fa-map-marker-alt"></i>Los Angeles</li>
 																</ul>
 														</div>
@@ -234,11 +227,11 @@
 								<div class="col-xl-12">
 										<div class="video-caption text-center">
 												<div class="video-icon">
-														<a class="popup-video" href="https://www.youtube.com/watch?v=1aP-TXUpNoU" tabindex="0"><i class="fas fa-play"></i></a>
+														<a class="popup-video" href="https://youtu.be/XBRT62SIdnk" tabindex="0"><i class="fas fa-play"></i></a>
 												</div>
-												<p class="pera1">Love where you're going in the perfect time</p>
-												<p class="pera2">Tripo is a World Leading Online</p>
-												<p class="pera3"> Tour Booking Platform</p>
+												<p class="pera1"style="color:red;">Ama a dónde vas en el momento perfecto</p>
+												<p class="pera2"style="color:#2F286C;">Fedex es una plataforma de encomiendas en línea</p>
+												<p class="pera3"style="color:#2F286C;"> líder en el mundo</p>
 										</div>
 								</div>
 						</div>
@@ -253,7 +246,7 @@
 										<div class="support-location-img mb-50">
 												<img src="<?php echo base_url(); ?>/plantilla/assets/img/service/service24.jpg" alt="">
 												<div class="support-img-cap">
-														<span>Since 1992</span>
+														<span>Desde 1971 </span>
 												</div>
 										</div>
 								</div>
@@ -261,30 +254,31 @@
 										<div class="right-caption">
 												<!-- Section Tittle -->
 												<div class="section-tittle section-tittle2">
-														<span>About Our Company</span>
-														<h2>We are Go Trip <br>Ravels Support Company</h2>
+														<span>SOBRE NUESTRA COMPAÑÍA</span>
+														<h2>Somos FedEx <br>Compañía de encomiendas</h2>
 												</div>
 												<div class="support-caption">
-														<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud</p>
+														<p>Para tus necesidades de importación, exportación o locales, paquetes livianos o pesados, envíos con carácter de urgente o sin tanta prisa,
+															FedEx te ofrece soluciones y un servicio en los cuales puedes confiar.</p>
 														<div class="select-suport-items">
-																<label class="single-items">Lorem ipsum dolor sit amet
+																<label class="single-items">¿Eres nuevo en FedEx?
 																		<input type="checkbox" checked="checked active">
 																		<span class="checkmark"></span>
 																</label>
-																<label class="single-items">Consectetur adipisicing sed do
+																<label class="single-items">Abrir una cuenta
 																		<input type="checkbox" checked="checked active">
 																		<span class="checkmark"></span>
 																</label>
-																<label class="single-items">Eiusmod tempor incididunt
+																<label class="single-items">Servicios de envío
 																		<input type="checkbox" checked="checked active">
 																		<span class="checkmark"></span>
 																</label>
-																<label class="single-items">Ad minim veniam, quis nostrud.
+																<label class="single-items">Suscribete para recibir alerta de novedades.
 																		<input type="checkbox" checked="checked active">
 																		<span class="checkmark"></span>
 																</label>
 														</div>
-														<a href="#" class="btn border-btn">About us</a>
+														<a href="https://www.fedex.com/es-ec/get-started.html" class="btn border-btn">Ayuda</a>
 												</div>
 										</div>
 								</div>
@@ -305,8 +299,8 @@
 														<div class="testimonial-caption ">
 																<div class="testimonial-top-cap">
 																		<img src="<?php echo base_url(); ?>/plantilla/assets/img/icon/testimonial.png" alt="">
-																		<p>Logisti Group is a representative logistics operator providing full range of ser
-																				of customs clearance and transportation worl.</p>
+																		<p>Logisti Group es un operador logístico representativo que ofrece una gama completa de servicios del
+																			mundo del despacho de productos y el transporte.</p>
 																</div>
 																<!-- founder -->
 																<div class="testimonial-founder d-flex align-items-center justify-content-center">
@@ -354,8 +348,8 @@
 						<div class="row">
 								<div class="col-lg-12">
 										<div class="section-tittle text-center">
-												<span>Our Recent news</span>
-												<h2>Tourist Blog</h2>
+												<span>Nuestras noticias recientes</span>
+												<h2>Fedex Blog</h2>
 										</div>
 								</div>
 						</div>
@@ -364,17 +358,16 @@
 										<div class="home-blog-single mb-30">
 												<div class="blog-img-cap">
 														<div class="blog-img">
-																<img src="<?php echo base_url(); ?>/plantilla/assets/img/blog/home-blog1.jpg" alt="">
+																<img src="<?php echo base_url(); ?>/plantilla/assets/img/blog/fedex.png" alt="">
 														</div>
 														<div class="blog-cap">
-																<p> |   Traveling</p>
-																<h3><a href="single-blog.html">Tips For Taking A Long-Term Trip With Kids.</a></h3>
-																<a href="#" class="more-btn">Read more »</a>
+																<p> |Envios largos</p>
+																<h3><a href="single-blog.html">Consejos para que tu entrega llegue a tus manos</a></h3>
 														</div>
 												</div>
 												<div class="blog-date text-center">
 														<span>24</span>
-														<p>Now</p>
+														<p>Ahora</p>
 												</div>
 										</div>
 								</div>
@@ -382,17 +375,16 @@
 										<div class="home-blog-single mb-30">
 												<div class="blog-img-cap">
 														<div class="blog-img">
-																<img src="<?php echo base_url(); ?>/plantilla/assets/img/blog/home-blog2.jpg" alt="">
+																<img src="<?php echo base_url(); ?>/plantilla/assets/img/blog/puma.jpg" alt="">
 														</div>
 														<div class="blog-cap">
-																<p> |   Traveling</p>
-																<h3><a href="single-blog.html">Tips For Taking A Long-Term Trip With Kids.</a></h3>
-																<a href="#" class="more-btn">Read more »</a>
+																<p> |Entregas</p>
+																<h3><a href="single-blog.html">Consejos para no perder tus paquetes.</a></h3>
 														</div>
 												</div>
 												<div class="blog-date text-center">
 														<span>24</span>
-														<p>Now</p>
+														<p>Ahora</p>
 												</div>
 										</div>
 								</div>

@@ -26,11 +26,11 @@
                         <div class="single-footer-caption mb-30">
                              <!-- logo -->
                             <div class="footer-logo">
-                                <a href="index.html"><img src="<?php echo base_url(); ?>/plantilla/assets/img/logo/logo2_footer.png" alt=""></a>
+                                <a href="index.html"><img src="<?php echo base_url(); ?>/plantilla/assets/img/logo/loader23.png" alt=""style="height:70px; with:70px"></a>
                             </div>
                             <div class="footer-tittle">
                                 <div class="footer-pera">
-                                    <p>Lorem iaspsum doldfor sit amvset, consectetur adipisicing cvelit csed do eiusmod tempor incididucvccnt ut labovre.</p>
+                                    <p>FedEx Corporation es una compañía de logística de origen estadounidense, que tiene cobertura a nivel internacional. Fue fundada bajo el nombre Federal Express en 1971 por Frederick W. Smith en Little Rock. En 1973 se trasladó a Memphis</p>
                                </div>
                             </div>
                         </div>
@@ -39,12 +39,12 @@
                    <div class="col-xl-2 col-lg-3 col-md-3 col-sm-5">
                        <div class="single-footer-caption mb-50">
                            <div class="footer-tittle">
-                               <h4>Quick Links</h4>
+                               <h4> Información de la compañía</h4>
                                <ul>
-                                   <li><a href="#">About</a></li>
-                                   <li><a href="#"> Offers & Discounts</a></li>
-                                   <li><a href="#"> Get Coupon</a></li>
-                                   <li><a href="#">  Contact Us</a></li>
+                                   <li><a href="https://www.fedex.com/es-ec/about.html"> Acerca de FedEx</a></li>
+                                   <li><a href="https://fedex.wd1.myworkdayjobs.com/FXE-LAC_External_Career_Site"> Carreras</a></li>
+                                   <li><a href="https://www.fedex.com/es-ec/about/holiday-schedule.html#es_ec"> Calendario Internacional de Días Festivos</a></li>
+                                   <li><a href="https://www.fedex.com/es-ec/terms-and-conditions.html">Términos y condiciones</a></li>
                                </ul>
                            </div>
                        </div>
@@ -52,12 +52,12 @@
                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-7">
                        <div class="single-footer-caption mb-50">
                            <div class="footer-tittle">
-                               <h4>New Products</h4>
+                               <h4>Ayuda al Cliente</h4>
                                <ul>
-                                   <li><a href="#">Woman Cloth</a></li>
-                                   <li><a href="#">Fashion Accessories</a></li>
-                                   <li><a href="#"> Man Accessories</a></li>
-                                   <li><a href="#"> Rubber made Toys</a></li>
+                                   <li><a href="https://www.fedex.com/es-ec/customer-support/write-to-fedex.html">Escribir a FedEx</a></li>
+                                   <li><a href="https://www.fedex.com/es-ec/shipping-tools.html">Herramientas en línea</a></li>
+                                   <li><a href="https://www.fedex.com/es-ec/shipping/surcharges.html">Información sobre el recargo por combustible</a></li>
+                                   <li><a href="http://www.fedex.com/ec/mobile/"> FedEx® Móvil</a></li>
                                </ul>
                            </div>
                        </div>
@@ -65,13 +65,11 @@
                    <div class="col-xl-3 col-lg-3 col-md-5 col-sm-7">
                        <div class="single-footer-caption mb-50">
                            <div class="footer-tittle">
-                               <h4>Support</h4>
+                               <h4>MÁS SOBRE FEDEX</h4>
                                <ul>
-                                <li><a href="#">Frequently Asked Questions</a></li>
-                                <li><a href="#">Terms & Conditions</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Report a Payment Issue</a></li>
+                                <li><a href="https://developer.fedex.com/api/es-ec/home.html">FedEx Developer Portal</a></li>
+                                <li><a href="https://www.fedex.com/es-ec/shipping-tools/direct-integrations/api.html">FedEx API</a></li>
+                                <li><a href="https://www.fedex.com/es-ec/shipping-tools/compatible.html">FedEx Compatible</a></li>
                             </ul>
                            </div>
                        </div>
@@ -90,9 +88,9 @@
                        <!-- social -->
                        <div class="footer-social f-right">
                            <a href="#"><i class="fab fa-twitter"></i></a>
-                           <a href="#"><i class="fab fa-facebook-f"></i></a>
-                           <a href="#"><i class="fab fa-behance"></i></a>
-                           <a href="#"><i class="fas fa-globe"></i></a>
+                           <a href="https://www.facebook.com/FedEx/"><i class="fab fa-facebook-f"></i></a>
+                           <a href="https://www.youtube.com/user/fedexamericalatina"><i class="fab fa-behance"></i></a>
+                           <a href="https://www.linkedin.com/showcase/fedex-am%25C3%25A9rica-latina/"><i class="fas fa-globe"></i></a>
                        </div>
                 </div>
             </div>
