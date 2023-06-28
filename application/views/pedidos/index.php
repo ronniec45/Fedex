@@ -7,14 +7,14 @@
   <body>
     <div class="row">
       <div class="col-md-8 text-center">
-        <h1>LISTA DE SUCURSALES</h1>
+        <h1>LISTA DE PEDIDOS</h1>
       </div>
       <div class="col-md-4">
         <br>
         <br>
-        <a href="<?php echo site_url ('productos/nuevo'); ?>" class="btn btn-primary">
+        <a href="<?php echo site_url ('pedidos/nuevo'); ?>" class="btn btn-primary">
           <i class="glyphicon glyphicon-plus"> </i>
-          Agregar Producto
+          Agregar Pedido
         </a>
         <br>
         <br>
@@ -24,7 +24,7 @@
     </div>
 
     <br>
-    <?php if ($productos):?>
+    <?php if ($pedidos):?>
       <table class="table table-striped table-success">
         <thead>
           <tr style="text-align:center">
@@ -41,47 +41,47 @@
           </tr>
         </thead>
         <tbody>
-        <?php foreach ($productos as $filaTemporal):?>
+        <?php foreach ($pedidos as $filaTemporal):?>
           <tr style="text-align:center">
             <td>
-              <?php echo $filaTemporal->id_pro;?>
+              <?php echo $filaTemporal->id_pe;?>
             </td>
 
             <td>
-              <?php echo $filaTemporal->nombre_pro;?>
+              <?php echo $filaTemporal->nombre_pe;?>
             </td>
 
             <td>
-              <?php echo $filaTemporal->descripcion_pro;?>
+              <?php echo $filaTemporal->descripcion_pe;?>
             </td>
 
             <td>
-              <?php echo $filaTemporal->precio_pro;?>
+              <?php echo $filaTemporal->precio_pe;?>
             </td>
 
             <td>
-              <?php echo $filaTemporal->proveedor_pro;?>
+              <?php echo $filaTemporal->proveedor_pe;?>
 
             </td>
 
             <td>
-              <?php echo $filaTemporal->um_pro;?>
+              <?php echo $filaTemporal->um_pe;?>
             </td>
             <td>
-              <?php echo $filaTemporal->fecha_ingreso_pro;?>
+              <?php echo $filaTemporal->fecha_ingreso_pe;?>
             </td>
             <td>
-              <?php echo $filaTemporal->latitud_pro;?>
+              <?php echo $filaTemporal->latitud_pe;?>
             </td>
             <td>
-              <?php echo $filaTemporal->longitud_pro;?>
+              <?php echo $filaTemporal->longitud_pe;?>
             </td>
             <td class="text-center">
-          <a href="#" title="Editar producto">
+          <a href="#" title="Editar pedido">
             <i class="bi bi-trash" style="color:blue">editar</i>
           </a>
 
-          <a href="<?php echo site_url(); ?>/productos/eliminar/<?php echo $filaTemporal->id_pro; ?>" title="Eliminar productos" onclick="return confirm('Está seguro de eliminar el registro.');">
+          <a href="<?php echo site_url(); ?>/pedidos/eliminar/<?php echo $filaTemporal->id_pe; ?>" title="Eliminar pedido" onclick="return confirm('Está seguro de eliminar el registro.');">
           &nbsp;&nbsp;
           <i class="" style="color:red">eliminar</i>
           </a>
@@ -91,7 +91,7 @@
              </tbody>
            </table>
          <?php else: ?>
-         <h1 style="text-align:center">No hay ningun registro de Productos!</h1>
+         <h1 style="text-align:center">No hay ningun registro de Pedidos!</h1>
          <?php endif; ?>
     <br>
     <br>

@@ -14,8 +14,8 @@
         placeholder="Ingrese el nombre"
         class="form-control"
         required
-        name="nombre_pro" value=""
-        id="nombre_pro">
+        name="nombre_pe" value=""
+        id="nombre_pe">
     </div>
     <div class="col-md-4">
         <label for="">Descripcion:
@@ -26,8 +26,8 @@
         placeholder="Ingrese una descripcion"
         class="form-control"
         required
-        name="descripcion_pro" value=""
-        id="descripcion_pro">
+        name="descripcion_pe" value=""
+        id="descripcion_pe">
     </div>
     <div class="col-md-4">
       <label for="">Precio:</label>
@@ -36,8 +36,8 @@
       <input type="number"
       placeholder="Ingrese el precio"
       class="form-control"
-      name="precio_pro" value=""
-      id="precio_pro">
+      name="precio_pe" value=""
+      id="precio_pe">
     </div>
   </div>
   <br>
@@ -51,8 +51,8 @@
         placeholder="Ingrese el proveedor"
         class="form-control"
         required
-        name="proveedor_pro" value=""
-        id="proveedor_pro">
+        name="proveedor_pe" value=""
+        id="proveedor_pe">
     </div>
     <div class="col-md-4">
         <label for="">UM:
@@ -63,8 +63,8 @@
         placeholder="Ingrese la unidad de medida"
         class="form-control"
         required
-        name="um_pro" value=""
-        id="um_pro">
+        name="um_pe" value=""
+        id="um_pe">
     </div>
     <div class="col-md-4">
         <label for="">Fecha de Ingreso:
@@ -75,8 +75,8 @@
         placeholder="Ingrese la fecha actual"
         class="form-control"
         required
-        name="fecha_ingreso_pro" value=""
-        id="fecha_ingreso_pro">
+        name="fecha_ingreso_pe" value=""
+        id="fecha_ingreso_pe">
     </div>
   </div>
   <br>
@@ -90,8 +90,8 @@
         placeholder="Seleccione en el mapa"
         class="form-control"  readonly
         required
-        name="latitud_pro" value=""
-        id="latitud_pro">
+        name="latitud_pe" value=""
+        id="latitud_pe">
     </div>
     <div class="col-md-6">
         <label for="">Longitud:
@@ -102,8 +102,8 @@
         placeholder="Selecione en el mapa"
         class="form-control" readonly
         required
-        name="longitud_pro" value=""
-        id="longitud_pro">
+        name="longitud_pe" value=""
+        id="longitud_pe">
     </div>
   </div>
     <br>
@@ -143,9 +143,9 @@
         });
         google.maps.event.addListener(marcador,
         'dragend',function(){
-          document.getElementById('latitud_pro').value=
+          document.getElementById('latitud_pe').value=
           this.getPosition().lat();
-          document.getElementById('longitud_pro').value=
+          document.getElementById('longitud_pe').value=
           this.getPosition().lng();
         });
 
@@ -162,7 +162,7 @@
               Guardar
             </button>
             &nbsp;
-            <a href="<?php echo site_url(); ?>/productos/index" class="btn btn-danger">
+            <a href="<?php echo site_url(); ?>/pedidos/index" class="btn btn-danger">
               Cancelar
             </a>
         </div>

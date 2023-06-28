@@ -100,11 +100,11 @@
                                                     <li><a href="<?php echo site_url();?>/clientes/cliente">Ubicacion</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="#">Productos</a>
+                                            <li><a href="#">Pedidos</a>
                                                 <ul class="submenu">
-                                                    <li><a href="<?php echo site_url();?>/productos/nuevo">Ingresar Producto</a></li>
-                                                    <li><a href="<?php echo site_url();?>/productos/index">listar Productos</a></li>
-                                                    <li><a href="<?php echo site_url();?>/productos/producto">Ubicacion</a></li>
+                                                    <li><a href="<?php echo site_url();?>/pedidos/nuevo">Ingresar Pedido</a></li>
+                                                    <li><a href="<?php echo site_url();?>/pedidos/index">listar Pedidos</a></li>
+                                                    <li><a href="<?php echo site_url();?>/pedidos/pedido">Ubicacion</a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="<?php echo site_url();?>/generales/general">Ruta</a></li>

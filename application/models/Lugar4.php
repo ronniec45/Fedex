@@ -5,7 +5,7 @@
             parent::__construct();
         }
         function obtenerTodos(){
-            $ListadosLugares=$this->db->get("producto");
+            $ListadosLugares=$this->db->get("pedido");
             if ($ListadosLugares->num_rows()>0){
                 return $ListadosLugares->result();
             }
